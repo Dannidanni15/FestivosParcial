@@ -1,0 +1,38 @@
+# Compiled class files
+*.class
+
+# Maven target directory
+/target/
+/**/target/
+
+# Logs
+*.log
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
+out/
+
+# Eclipse files
+.project
+.classpath
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build tools
+/build/
+/bin/
+/dist/
+
+# VSCode (si usás)
+.vscode/
+
+# Backup files
+*~
+*.bak
+*.swp
+*.swo
